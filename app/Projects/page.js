@@ -1,6 +1,6 @@
 "use client";
 
-export default function Projects() {
+export default function projects() {
   const projects = [
     {
       title: "AI SaaS Platform",

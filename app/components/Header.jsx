@@ -41,7 +41,7 @@ export default function Header() {
 
             <li>
               <Link
-                href="/About"
+                href="/about"
                 className="relative transition duration-300 hover:text-purple-400"
               >
                 About
@@ -50,7 +50,7 @@ export default function Header() {
 
             <li>
               <Link
-                href="/Projects"
+                href="/projects"
                 className="relative transition duration-300 hover:text-cyan-400"
               >
                 Projects
